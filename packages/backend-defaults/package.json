@@ -107,7 +107,7 @@
     "@backstage/config-loader": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
-    "@backstage/integration-aws-node": "workspace:^",
+    "@backstage/integration-aws-node": "0.1.0",
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/plugin-events-node": "workspace:^",
     "@backstage/plugin-permission-node": "workspace:^",
